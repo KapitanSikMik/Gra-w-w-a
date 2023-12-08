@@ -1,0 +1,8 @@
+D:\VisualStudioRepos\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe.config
+D:\VisualStudioRepos\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe
+D:\VisualStudioRepos\SnakeGame\SnakeGame\bin\Debug\SnakeGame.pdb
+D:\VisualStudioRepos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.AssemblyReference.cache
+D:\VisualStudioRepos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudioRepos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+D:\VisualStudioRepos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
+D:\VisualStudioRepos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
