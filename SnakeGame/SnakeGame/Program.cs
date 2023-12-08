@@ -147,6 +147,13 @@ class Program
                 snake.RemoveAt(0);
         }
 
+        // Wywołanie funkcji GameOverScreen po zakończeniu gry
+        GameOverScreen(screenWidth, screenHeight, score);
+    }
+
+    // Dodana funkcja GameOverScreen
+    static void GameOverScreen(int screenWidth, int screenHeight, int score)
+    {
         Console.Clear();
         Console.ForegroundColor = ConsoleColor.Red;
         Console.SetCursorPosition(screenWidth / 5, screenHeight / 2);
@@ -154,6 +161,7 @@ class Program
         Console.SetCursorPosition(screenWidth / 5, screenHeight / 2 + 1);
         Console.WriteLine($"Your Score is: {score}");
         Console.SetCursorPosition(screenWidth / 5, screenHeight / 2 + 2);
+        Console.ReadLine();
     }
 }
 
